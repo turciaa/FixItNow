@@ -1,0 +1,12 @@
+ID,Timestamp,Type,Brand,Model,Complexity,EstimatedDuration,RemainingDuration,Price,Status,TechnicianId,ReceptionistId
+1,2026-10-01 13:29:35,Fridge,Samsung,Frost200,3,18,13,45000,in_progress,3,1
+2,2026-10-01 13:29:36,Fridge,Samsung,CoolMax,2,14,9,42000,in_progress,5,2
+3,2026-10-01 13:29:37,Fridge,LG,SmartFridge,4,20,15,64000,in_progress,6,1
+4,2026-10-01 13:29:38,Fridge,Arctic,FreshPro,5,45,40,90000,in_progress,4,2
+5,2026-10-01 13:29:39,Television,LG,OLED55,2,10,5,35000,in_progress,7,1
+6,2026-10-01 13:29:40,Television,LG,NanoCell,3,18,13,72000,in_progress,7,2
+7,2026-10-01 13:29:41,Television,Samsung,QLED65,4,32,27,144000,in_progress,5,1
+8,2026-10-01 13:29:42,Television,Sony,Bravia,1,4,0,20000,completed,5,2
+9,2026-10-01 13:29:43,WashingMachine,Arctic,WashPro,4,28,23,50400,in_progress,7,1
+10,2026-10-01 13:29:44,WashingMachine,Whirlpool,CleanMax,3,18,13,39600,in_progress,4,2
+11,2026-10-01 13:29:45,WashingMachine,Bosch,Serie6,2,10,5,25000,in_progress,6,1

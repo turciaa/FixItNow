@@ -1,0 +1,9 @@
+type,brand,model,manufacture_year,list_price,specific_attribute,complexity
+Fridge,Zanussi,UnknownModel,2018,2000,1,3
+Fridge,Beko,FridgePro,2019,2500,0,2
+Television,Philips,SmartTV,2020,3000,120,4
+Television,Toshiba,LED50,2017,1800,127,3
+WashingMachine,Electrolux,WashMaster,2021,2200,8,2
+WashingMachine,Indesit,CleanPro,2019,1500,7,3
+Fridge,Haier,CoolBox,2020,2300,1,4
+WashingMachine,Candy,WashPlus,2018,1600,6,2

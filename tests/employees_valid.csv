@@ -1,0 +1,10 @@
+Type,LastName,FirstName,CNP,City,HireDate,Skills
+Receptionist,Popescu,Ion,1900101011232,Bucuresti,10-01-2020,
+Receptionist,Stan,Cristina,2850615123458,Cluj,15-03-2018,
+Technician,Ionescu,Maria,2870412123459,Cluj,10-01-2018,Fridge-Samsung;Fridge-LG;Television-LG
+Technician,Vasilescu,Andrei,1920512234564,Bucuresti,01-09-2019,WashingMachine-Arctic;WashingMachine-Whirlpool;Fridge-Arctic
+Technician,Marinescu,Elena,2880823345676,Iasi,15-06-2017,Television-Samsung;Television-Sony;Fridge-Samsung
+Technician,Dumitrescu,Mihai,1910304456785,Timisoara,20-11-2016,WashingMachine-Bosch;Television-LG;Fridge-LG
+Technician,Radu,Alexandru,1930707234568,Timisoara,20-06-2019,Fridge-Samsung;Television-LG;WashingMachine-Arctic
+Supervisor,Georgescu,Ana,2750920567897,Iasi,01-06-2015,
+Supervisor,Matei,Andreea,2700515456781,Bucuresti,01-04-2014,

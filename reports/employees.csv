@@ -1,0 +1,10 @@
+ID,LastName,FirstName,CNP,City,HireDate,Salary
+1,Popescu,Ion,1900101011232,Bucuresti,10-01-2020,4400
+2,Stan,Cristina,2850615123458,Cluj,15-03-2018,4800
+3,Ionescu,Maria,2870412123459,Cluj,10-01-2018,4800
+4,Vasilescu,Andrei,1920512234564,Bucuresti,01-09-2019,4400
+5,Marinescu,Elena,2880823345676,Iasi,15-06-2017,5400
+6,Dumitrescu,Mihai,1910304456785,Timisoara,20-11-2016,5000
+7,Radu,Alexandru,1930707234568,Timisoara,20-06-2019,4800
+8,Georgescu,Ana,2750920567897,Iasi,01-06-2015,5800
+9,Matei,Andreea,2700515456781,Bucuresti,01-04-2014,5600

@@ -1,0 +1,12 @@
+type,brand,model,manufacture_year,list_price,specific_attribute,complexity
+Fridge,Samsung,Frost200,2020,2500,1,3
+Fridge,Samsung,CoolMax,2019,3000,0,2
+Fridge,LG,SmartFridge,2021,3200,1,4
+Fridge,Arctic,FreshPro,2017,2000,1,5
+Television,LG,OLED55,2021,3500,139.7,2
+Television,LG,NanoCell,2020,4000,165,3
+Television,Samsung,QLED65,2018,4500,165,4
+Television,Sony,Bravia,2022,5000,140,1
+WashingMachine,Arctic,WashPro,2019,1800,8,4
+WashingMachine,Whirlpool,CleanMax,2020,2200,7,3
+WashingMachine,Bosch,Serie6,2021,2500,9,2

@@ -1,0 +1,7 @@
+Type,LastName,FirstName,CNP,City,HireDate,Skills
+Receptionist,Test,Invalid,12345,Bucuresti,10-01-2020,
+Technician,Minor,Test,5100101400019,Cluj,01-01-2020,Fridge-Samsung
+Technician,CNP,Wrong,ABC1234567890,Timisoara,20-06-2019,WashingMachine-Arctic
+Supervisor,Date,Wrong,1950303123450,Iasi,32-13-2020,
+Receptionist,CNP,Short,190010101,Bucuresti,15-05-2021,
+Technician,Age,TooLow,5230512234565,Constanta,10-10-2023,Television-LG

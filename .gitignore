@@ -1,0 +1,12 @@
+# Build output (g++ / MinGW)
+*.exe
+*.o
+build/
+
+# IDE / editor config
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store
